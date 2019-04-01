@@ -1,7 +1,7 @@
 # Chat Multithread com Socket em Java
 > Alunos : 
-> André Luiz de Castro Alves 
-> Luiz Fernando Gonçalves da Silva
+  - André Luiz de Castro Alves 
+  - Luiz Fernando Gonçalves da Silva
 
 Instrução para execução do programa.
 
@@ -14,8 +14,6 @@ Instrução para execução do programa.
 
   - Mudar a visão de usuarios online.
   - Mudar a interface para WEB.
-
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Tecnologia
 
